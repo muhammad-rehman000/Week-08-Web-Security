@@ -12,3 +12,6 @@
   * <img src = "Week8Part5.gif"/>
 6. Session Hijacking
   * <img src = "Week8Part6.gif"/>
+
+Bonus 1
+ * <img src = "Week8Bonus1.gif"/>
